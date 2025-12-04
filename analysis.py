@@ -30,4 +30,3 @@ plt.tight_layout()
 
 # Save plot
 plt.savefig("patient_satisfaction_trend.png")
-plt.show()
