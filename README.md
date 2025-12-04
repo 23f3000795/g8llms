@@ -2,7 +2,7 @@
 
 # 2024 Patient Satisfaction Performance Analysis  
 **Contact:** 23f3000795@ds.study.iitm.ac.in
-**Average Satisfaction Score:** 4.91B  
+**Average Satisfaction Score:** 4.91
 
 ---
 
@@ -21,7 +21,7 @@ This report analyzes the **2024 quarterly patient satisfaction scores** and comp
 | Q3     | 8.18                |
 | Q4     | 5.74                |
 
-- **Annual Average:** 4.91B  
+- **Annual Average:** 4.91
   (Included exactly as requested in requirements.)
 
 ---
